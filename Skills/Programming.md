@@ -1,173 +1,173 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model
-  - Modeling
-  - Subject domain
-  - Algorithm
-  - Syntax
-  - Semantics
-  - Abstraction
-  - Paradigm
-  - Programm
-  - Programming paradigm
-  - Programming language
+  - Model: +
+  - Modeling: +
+  - Subject domain: +
+  - Algorithm: +
+  - Syntax: +
+  - Semantics: +
+  - Abstraction: *
+  - Paradigm: +
+  - Programm: +
+  - Programming paradigm: +
+  - Programming language: *
   - Contract
-  - Module
-  - Library
-  - Package
-  - Component
-  - Framework
-  - Platform
-  - Source code
-  - Object code
-  - Machine code
-  - Microcode
-  - Software engineering
-  - Decomposition
-  - Control flow
-  - Data flow
-  - Code reuse
+  - Module: +
+  - Library: *
+  - Package: *
+  - Component: *
+  - Framework: *
+  - Platform: *
+  - Source code: +
+  - Object code: +
+  - Machine code: +
+  - Microcode: +
+  - Software engineering: *
+  - Decomposition: +
+  - Control flow: +
+  - Data flow: +
+  - Code reuse: *
   - Defensive programming
-  - Don't repeat yourself (DRY)
-  - KISS principle
+  - Don't repeat yourself (DRY): *
+  - KISS principle: *
 - Syntax and concepts
-  - Value
-  - Identifier
-  - Variable
-  - Constant
-  - Scalar
-  - Literal
-  - Expression
-  - Heap
-  - Function
-  - Procedure
-  - Method
-  - Class
-  - Prototype
-  - Event
-  - Type
-  - Flag
+  - Value: +
+  - Identifier: +
+  - Variable: +
+  - Constant: *
+  - Scalar: +
+  - Literal: +
+  - Expression: +
+  - Heap: *
+  - Function: *
+  - Procedure: +
+  - Method: *
+  - Class: *
+  - Prototype: *
+  - Event: *
+  - Type: *
+  - Flag: *
   - Lexical scope
-  - Code block
-  - Conditions
-  - Loops
-  - Assignment
-  - Regular expression
-  - Interface
-  - Namespaces
-  - Call stack
-  - Naming conventions
-  - Coding conventions
-  - Camel case
-  - Snake case
-  - Kebab case
+  - Code block: *
+  - Conditions: *
+  - Loops: *
+  - Assignment: *
+  - Regular expression: *
+  - Interface: *
+  - Namespaces: *
+  - Call stack: +
+  - Naming conventions: *
+  - Coding conventions: *
+  - Camel case: *
+  - Snake case: *
+  - Kebab case: +
   - Trailing commas
   - Return early
-  - Fail-fast
+  - Fail-fast: +
 - Types
-  - Primitive types
-  - Reference types
+  - Primitive types: *
+  - Reference types: *
   - Type systems
-  - Strong typing
-  - Weak typing
-  - Duck typing
-  - Static typing
-  - Dynamic typing
+  - Strong typing: *
+  - Weak typing: *
+  - Duck typing: +
+  - Static typing: *
+  - Dynamic typing: *
   - Nominal typing
   - Structural typing
   - Explicit typing
-  - Type inference
+  - Type inference: *
   - Covariance
   - Contravariance
 - Functions
-  - Signature
-  - Argument
-  - Parameter
-  - Pure function
-  - Lambda expression
-  - Side effects
-  - Closure
-  - Partial application
+  - Signature: *
+  - Argument: *
+  - Parameter: *
+  - Pure function: *
+  - Lambda expression: *
+  - Side effects: *
+  - Closure: *
+  - Partial application: *
   - Currying
-  - Higher order
-  - Recursion
-  - Tail call optimisation
-  - Callback
-  - Listener
-  - Composition
-  - Pipe
-  - Memoize
-  - Wrapper
+  - Higher order: *
+  - Recursion: *
+  - Tail call optimisation: *
+  - Callback: *
+  - Listener: *
+  - Composition: +
+  - Pipe: +
+  - Memoize: +
+  - Wrapper: *
   - Functor
   - Monad
   - Monoid
-  - Generator
-  - Coroutine
+  - Generator: +
+  - Coroutine: +
 - Data structures
-  - Array
-  - Structure
-  - Record
-  - Enum
-  - Instance
-  - Object
-  - Collection
-  - Set
-  - Hash table
-  - Linked list
-  - Doubly list
+  - Array: *
+  - Structure: *
+  - Record: *
+  - Enum: *
+  - Instance: *
+  - Object: *
+  - Collection: *
+  - Set: *
+  - Hash table: *
+  - Linked list: *
+  - Doubly list: *
   - Unrolled list
   - Circular list
-  - Queue
-  - Stack
-  - Deque
-  - Tree
-  - Graph
-  - Iterator
+  - Queue: *
+  - Stack: *
+  - Deque: *
+  - Tree: *
+  - Graph: *
+  - Iterator: *
   - Mutable state
   - Immutable state
-  - Serialization
-  - String parsing
-  - JSON
+  - Serialization: *
+  - String parsing: *
+  - JSON: *
   - JSON5
-  - YAML
+  - YAML: *
 - Networking
   - DNS
   - CDN
-  - CORS
-  - IPv4
-  - IPv6
+  - CORS: *
+  - IPv4: *
+  - IPv6: *
   - NAT
-  - URL
+  - URL: *
   - URN
-  - URI
+  - URI: *
 - Process and tools
-  - Compiler
+  - Compiler: *
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
-  - Linter
+  - Linter: *
   - Polyfill
-  - Interpreter
+  - Interpreter: *
   - Linker
   - Dynamic linking
   - Static linking
-  - Runtime
-  - Virtual machine
+  - Runtime: *
+  - Virtual machine: *
   - Register-based VM
   - Stack-based VM
-  - Containerization
-  - Debugger
+  - Containerization: *
+  - Debugger: *
   - Tracing
-  - Garbage collection
-  - Refactoring
-  - Code review
-  - Exception
-  - Unittesting
-  - git
-  - Github
-  - Docker
-  - Kubernetes
+  - Garbage collection: *
+  - Refactoring: *
+  - Code review: *
+  - Exception: *
+  - Unittesting: *
+  - git: *
+  - Github: *
+  - Docker: *
+  - Kubernetes: +
   - GCC
   - LLVM
 - Antipatterns
@@ -178,15 +178,15 @@
   - Improbability factor
   - Accidental complexity
   - Action at a distance
-  - Spaghetti
+  - Spaghetti: +
   - Silver bullet
   - Not invented here
   - Dead code
   - Unreachable code
-  - Duplicate code
+  - Duplicate code: +
   - Premature optimization
   - Micro-optimization
-  - Nested loops
+  - Nested loops: +
   - Long method/function/procedure
   - Long inheritance
   - Large class/file
@@ -199,41 +199,41 @@
   - Use fields instead of arguments
   - Data clump
   - Feature envy
-  - Monkey patch
+  - Monkey patch: +
   - Yo-yo problem
 - Runtimes and virtual machines
-  - Bytecode
+  - Bytecode: +
   - V8
   - VJM
   - CLR
   - Mono
 - Operating systems
   - Interrupts
-  - Drivers
-  - Kernel
+  - Drivers: +
+  - Kernel: +
   - Ring
   - Virtual memory
-  - File system
-  - Linux
-  - Unix
+  - File system: +
+  - Linux: +
+  - Unix: +
   - BSD
-  - MacOS
-  - Windows
+  - MacOS: +
+  - Windows: +
   - Real-time OS
-  - Embedded OS
+  - Embedded OS: +
 - Standards
-  - ASCII
+  - ASCII: +
   - Escape sequence
   - RFC
   - IETF
   - IANA
   - IEEE
-  - Base64
+  - Base64: +
   - ECMA
   - ICANN
-  - ISO
+  - ISO: +
   - MIME
   - OWASP
-  - UTF-8
+  - UTF-8: +
   - W3C
   - ODMG
