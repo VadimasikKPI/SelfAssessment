@@ -1,45 +1,45 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop: +
-  - `try..catch`: +
-  - Non-blocking: +
-  - Async I/O: +
-  - Thread pool: +
-  - Pattern Reactor: +
+  - Event loop: 🎓 known
+  - `try..catch`: 🎓 known
+  - Non-blocking: 🎓 known
+  - Async I/O: 🎓 known
+  - Thread pool: 🎓 known
+  - Pattern Reactor: 🎓 known
   - CAS operations
   - epoll
   - kqueue
   - Completion ports
-  - Event ports: +
+  - Event ports: 🎓 known
   - libuv
   - Race conditions
-  - Dead locks: +
-  - Live locks: +
-  - Concurrent programming: +
-  - Parallel programming: +
+  - Dead locks: 🎓 known
+  - Live locks: 🎓 known
+  - Concurrent programming: 🎓 known
+  - Parallel programming: 🎓 known
   - Actor Model
-  - Thread: +
-  - Process: +
+  - Thread: 🎓 known
+  - Process: 🎓 known
 - Async contracts
-  - Callbacks: +
+  - Callbacks: 🎓 known
   - Callback-last-error-first
   - Thenable
-  - Promise: +
-  - Async/await: +
-  - Future: +
+  - Promise: 🎓 known
+  - Async/await: 🎓 known
+  - Future: 🎓 known
   - Deferred
-  - Sync generator: +
-  - Async Generator: +
-  - Async Iterator: +
-  - Event: +
-  - Coroutine: +
+  - Sync generator: 🎓 known
+  - Async Generator: 🎓 known
+  - Async Iterator: 🎓 known
+  - Event: 🎓 known
+  - Coroutine: 🎓 known
   - Goroutine
-  - Signal: +
-  - Stream: +
-  - Chain of responsibility: +
-  - Middleware: +
-  - Locks: +
+  - Signal: 🎓 known
+  - Stream: 🎓 known
+  - Chain of responsibility: 🎓 known
+  - Middleware: 🎓 known
+  - Locks: 🎓 known
 - Async adapters and utils
   - callbackify
   - promisify
@@ -48,12 +48,12 @@
   - Async compose
 - Async abstractions interfaces
   - EventEmitter
-  - Observable/Observer: +
-  - Readable: +
-  - Writable: +
-  - Transform: +
-  - Async Pool: +
-  - Async Queue: +
+  - Observable/Observer: 🎓 known
+  - Readable: 🎓 known
+  - Writable: 🎓 known
+  - Transform: 🎓 known
+  - Async Pool: 🎓 known
+  - Async Queue: 🎓 known
   - Async Collector
   - Semaphore
   - Mutex
